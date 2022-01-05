@@ -28,7 +28,7 @@ Windows application designed to take control over every aspect of Project Joe
   </ul>
   <li> Customer mobile app settings</li>
   <ul>
-    <li> Need to change customer app background? No problem, you can do so in this section.</li>
+    <li> Need to change customer app background? No problem, you can do so in this part of application.</li>
   </ul>
   <li> Tier rules, Staff and Statistics are still in develompent [05/01/2022]</li>
   </ul>
