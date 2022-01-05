@@ -8,9 +8,29 @@ Windows application designed to take control over every aspect of Project Joe
     <p> This application has been designed to perform following tasks:</p>
     <ul>
   <li> Company set up (Name, contact, etc...)</li>
+  <ul>
+    <li> Sectin responsible for initial setup, such as DB and FTP access, business contact information, etc...</li>
+  </ul>
   <li> Product management </li>
-  <li> Staff management </li>
+  <ul>
+    <li> This part of application is responsible for everything around the products. We can add, modify and delete. Product can have various parameters such as product name, price, picutrte, description, allergens info, etc... </li>
+    <li> Every product has basic statistics, such as amount sold, etc...</li>
+  </ul>
+  <li> Customer management </li>
+  <ul>
+    <li> Section responsible for every aspect customer-wise. We can create, modify, delete, change status, send email, reset password, etc...</li>
+    <li> Also, we have some basic customer's statistics displayed</li>
+  </ul>
+  <li> Orders management</li>
+  <ul>
+    <li> Section which enables user to oversee all orders in effective way</li>
+    <li> We can see every order details, we can change the status of the order, we can obtain the real time location of the order, etc...</li>
+  </ul>
   <li> Customer mobile app settings (such as changing the background graphics, etc...)</li>
+  <ul>
+    <li> Need to change customer app background? No problem, you can do so in this section.</li>
+  </ul>
+  <li> Tier rules, Staff and Statistics are still in develompent [05/01/2022]</li>
   </ul>
 <div class="row">
 <img src="http://lukasslivka.com/images/1.PNG" width=400>
